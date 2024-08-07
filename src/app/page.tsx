@@ -6,7 +6,7 @@ export default function Home() {
       >
         Welcome to My Blog
       </h1>
-      <p className="max-w-[750px] max-auto leading-8">
+      <p className="max-w-[750px] mx-auto leading-8">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas ullam deleniti quis quae numquam, nostrum pariatur non aperiam minima temporibus iste animi. Odit aut eius eos voluptate aliquid corporis modi.
       </p>
     </main>
